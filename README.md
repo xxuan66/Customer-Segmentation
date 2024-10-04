@@ -79,7 +79,7 @@
 1. 克隆本项目：
 
     ```bash
-    git clone https://github.com/yourusername/customer-segmentation.git
+    git clone https://github.com/xxuan66/Customer-Segmentation.git
     cd customer-segmentation
     ```
 
